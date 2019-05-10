@@ -24,26 +24,27 @@ This session lists all machine learning related python packages.
 6. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
 7. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
 ### Machine Learning
-8. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
-9. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
-10. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
-11. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
-12. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
-13. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
-14. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
-15. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
-16. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
-17. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
-18. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
+1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
+2. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
+3. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
+4. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
+5. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
+6. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
+7. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
+8. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
+9. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
+10. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
+11. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
 ### AutoML
-19. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
-20. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
-21. [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): Salesforce AutoML library
+1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
+2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
+3. [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): Salesforce AutoML library
 ### Visualization
-22. [matplotlib](https://matplotlib.org/): All-purpose plotting package
-23. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
-24. [jupyter](jupyter.org/): Interactive python notebook. Excellent for machine learning research
-25. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
+1. [matplotlib](https://matplotlib.org/): All-purpose plotting package
+2. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
+3. [jupyter](jupyter.org/): Interactive python notebook. Excellent for machine learning research
+4. [jupytext](https://github.com/mwouts/jupytext): Manage Jupyter notebooks as plain text documents
+5. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
 ## Datasets
 This session lists publicly available datasets or data tools
 ### General
