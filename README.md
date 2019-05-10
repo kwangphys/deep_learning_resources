@@ -6,7 +6,7 @@
   - [Visualization](#visualization)
 - [Datasets](#datasets)
   - [General](#general)
-  - [Economics & Finance](#ecnomics-finance)
+  - [Economics & Finance](#economics--finance)
   - [Geography](#geography)
   - [Healthcare](#healthcare)
   - [Social Study](#social-study)
