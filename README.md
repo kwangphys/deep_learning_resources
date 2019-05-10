@@ -5,6 +5,11 @@
   - [AutoML](#automl)
   - [Visualization](#visualization)
 - [Datasets](#datasets)
+  - [General](#general)
+  - [Economics & Finance](#ecnomics-finance)
+  - [Geography](#geography)
+  - [Healthcare](#healthcare)
+  - [Social Study](#social-study)
 - [Books](#books)
 - [Resources](#resources)
 - [Articles](#articles)
@@ -41,11 +46,33 @@ This session lists all machine learning related python packages.
 25. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
 ## Datasets
 This session lists publicly available datasets or data tools
+### General
 1. [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 2. [Yahoo Datasets](https://webscope.sandbox.yahoo.com/#datasets)
 3. [Kaggle Datasets](https://www.kaggle.com/datasets)
-4. [Quandl Financial Datasets](https://www.quandl.com/)
-5. [Google Satellite Image Datasets](https://cloud.google.com/storage/docs/public-datasets/)
+4. [Reddit Datasets](https://www.reddit.com/r/datasets/)
+5. [Google Trends](https://trends.google.com/trends/explore)
+### Economics & Finance
+1. [Quandl Financial Datasets](https://www.quandl.com/)
+2. [Yahoo Finance](https://finance.yahoo.com/)
+3. [Open Corporates](https://opencorporates.com/)
+4. [US Census Bureau](https://www.census.gov/)
+5. [US Government Data](https://www.data.gov/)
+6. [US Bureau of Labor Statistics](https://www.bls.gov/data/)
+7. [Eurostat Database](https://ec.europa.eu/eurostat/data/database)
+8. [EU Open Data](https://data.europa.eu/euodp/en/data)
+9. [UK Government Data](https://data.gov.uk/)
+### Geography
+1. [Google Satellite Image Datasets](https://cloud.google.com/storage/docs/public-datasets/)
+2. [World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+3. [Nasa Earth Data](https://search.earthdata.nasa.gov/)
+4. [NOAA Weather Data](https://www.ncdc.noaa.gov/data-access)
+### Healthcare
+1. [Health data](https://healthdata.gov/)
+2. [CDC Data](https://www.cdc.gov/datastatistics/index.html)
+### Social Study
+1. [GroupLens Datasets](https://grouplens.org/datasets/)
+2. [BuzzFeed News](https://github.com/BuzzFeedNews)
 ## Books
 This session lists publicly downloadable machine learning books.
 1. [Probabilistic and Statistical Models for Outlier Detection](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319475776-c1.pdf?SGWID=0-0-45-1597574-p180317591) by Charu Aggarwal
