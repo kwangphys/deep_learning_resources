@@ -39,6 +39,7 @@ This session lists all machine learning related python packages.
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
 3. [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): Salesforce AutoML library
+4. [BoTorch](https://github.com/pytorch/botorch): Bayesian optimisation based on PyTorch
 ### Visualization
 1. [matplotlib](https://matplotlib.org/): All-purpose plotting package
 2. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
@@ -102,6 +103,8 @@ This session includes online resources such as websites, video courses, code sam
 15. [Google AI Blog](https://ai.googleblog.com/)
 16. [OpenAI Blog](https://blog.openai.com/)
 17. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
+18. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+19. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
