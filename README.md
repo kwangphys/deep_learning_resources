@@ -112,19 +112,17 @@ This session includes online resources such as websites, video courses, code sam
 21. [OpenAI Blog](https://blog.openai.com/)
 22. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
 23. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+24. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
 24. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
 25. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
-- [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+- [Initializing Neural Networks](http://www.deeplearning.ai/ai-notes/initialization/)
 - [How to Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
 - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 - [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more](https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
-- [Deep Adaptive Image Clustering](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
-- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
