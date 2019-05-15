@@ -23,6 +23,7 @@ This session lists all machine learning related python packages.
 5. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
 6. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
 7. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
+8. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
@@ -36,6 +37,7 @@ This session lists all machine learning related python packages.
 10. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
 11. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
 12. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
+13. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -111,6 +113,7 @@ This session includes online resources such as websites, video courses, code sam
 22. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
 23. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
 24. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+25. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
