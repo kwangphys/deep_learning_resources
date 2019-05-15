@@ -35,6 +35,7 @@ This session lists all machine learning related python packages.
 9. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
 10. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
 11. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
+12. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -93,18 +94,23 @@ This session includes online resources such as websites, video courses, code sam
 5. [Introduction to Machine Learning](https://scikit-learn.org/stable/user_guide.html) by sklearn
 6. [Stanford CS229 Machine Learning Notes](https://github.com/afshinea/stanford-cs-229-machine-learning)
 7. [Stanford CS230 (Andrew Ng) Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230.html)
-8. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
-9. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
-10. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-11. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
-12. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
-13. [Machine Learning Mastery](https://machinelearningmastery.com/)
-14. [Towards Data Science](https://towardsdatascience.com/)
-15. [Google AI Blog](https://ai.googleblog.com/)
-16. [OpenAI Blog](https://blog.openai.com/)
-17. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
-18. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-19. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+8. [Stanford CS224n NLP Notes](https://zhuanlan.zhihu.com/p/31977759): Notes are in Chinese
+9. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
+10. [Andrew Ng Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): Notes are in Chinese
+11. [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+12. [李宏毅 deep learning channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+13. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
+14. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+15. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
+16. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
+17. [Pytorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
+18. [Machine Learning Mastery](https://machinelearningmastery.com/)
+19. [Towards Data Science](https://towardsdatascience.com/)
+20. [Google AI Blog](https://ai.googleblog.com/)
+21. [OpenAI Blog](https://blog.openai.com/)
+22. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
+23. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+24. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
@@ -117,4 +123,6 @@ This session lists interesting articles such as blogs or research papers.
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
+- [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
+- [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
 
