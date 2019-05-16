@@ -82,11 +82,12 @@ This session lists publicly available datasets or data tools
 This session lists publicly downloadable machine learning books.
 1. [Probabilistic and Statistical Models for Outlier Detection](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319475776-c1.pdf?SGWID=0-0-45-1597574-p180317591) by Charu Aggarwal
 2. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-3. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
-4. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
-5. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
-6. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
-7. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+3. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
+4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
+5. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
+6. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
+7. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
+8. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
@@ -97,28 +98,33 @@ This session includes online resources such as websites, video courses, code sam
 6. [Stanford CS229 Machine Learning Notes](https://github.com/afshinea/stanford-cs-229-machine-learning)
 7. [Stanford CS230 (Andrew Ng) Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230.html)
 8. [Stanford CS224n NLP Notes](https://zhuanlan.zhihu.com/p/31977759): Notes are in Chinese
-9. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
-10. [Andrew Ng Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): Notes are in Chinese
-11. [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-12. [李宏毅 deep learning channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
-13. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
-14. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-15. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
-16. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
-17. [Pytorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
-18. [Machine Learning Mastery](https://machinelearningmastery.com/)
-19. [Towards Data Science](https://towardsdatascience.com/)
-20. [Google AI Blog](https://ai.googleblog.com/)
-21. [OpenAI Blog](https://blog.openai.com/)
-22. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
-23. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-24. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
-24. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
-25. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+9. [Stanford CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/schedule.html)
+10. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
+11. [Andrew Ng Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): Notes are in Chinese
+12. [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+13. [李宏毅 deep learning channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+14. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
+15. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+16. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
+17. [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization): Provide a suite of tools for optimizing tf models
+18. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
+19. [Pytorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
+20. [Machine Learning Mastery](https://machinelearningmastery.com/)
+21. [Towards Data Science](https://towardsdatascience.com/)
+22. [Google AI Blog](https://ai.googleblog.com/)
+23. [OpenAI Blog](https://blog.openai.com/)
+24. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
+25. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+26. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
+27. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+28. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [Initializing Neural Networks](http://www.deeplearning.ai/ai-notes/initialization/)
 - [How to Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
+- [TensorFlow Model Optimization Toolkit - Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a)
+- [4 Ways to Debug Your Deep Neural Network](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7)
 - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 - [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more](https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
