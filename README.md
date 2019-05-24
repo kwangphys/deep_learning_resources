@@ -126,6 +126,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Initializing Neural Networks](http://www.deeplearning.ai/ai-notes/initialization/)
 - [How to Handle Imbalanced Classification Problems in Machine Learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 - [How to Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
+- [Machine Learning Performance Improvement Cheat Sheet](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 - [Deep Learning Parameter Tuning Tricks (Chinese)](https://www.zhihu.com/question/41631631)
 - [TensorFlow Model Optimization Toolkit - Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a)
 - [4 Ways to Debug Your Deep Neural Network](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7)
