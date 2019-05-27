@@ -139,4 +139,5 @@ This session lists interesting articles such as blogs or research papers.
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Advances in Few Shot Learning: A Guided Tour](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)
 - [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
+- [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
