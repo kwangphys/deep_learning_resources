@@ -57,6 +57,7 @@ This session lists publicly available datasets or data tools
 3. [Kaggle Datasets](https://www.kaggle.com/datasets)
 4. [Reddit Datasets](https://www.reddit.com/r/datasets/)
 5. [Google Trends](https://trends.google.com/trends/explore)
+6. [VisualData](https://www.visualdata.io/): 281 Computer Vision Datasets
 ### Economics & Finance
 1. [Quandl Financial Datasets](https://www.quandl.com/)
 2. [Yahoo Finance](https://finance.yahoo.com/)
@@ -116,10 +117,12 @@ This session includes online resources such as websites, video courses, code sam
 23. [OpenAI Blog](https://blog.openai.com/)
 24. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
 25. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-26. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
-27. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
-28. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
-29. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+26. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
+27. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
+28. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+29. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
+30. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
+31. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
