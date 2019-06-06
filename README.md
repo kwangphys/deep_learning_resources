@@ -121,6 +121,7 @@ This session includes online resources such as websites, video courses, code sam
 21. [Towards Data Science](https://towardsdatascience.com/)
 22. [Google AI Blog](https://ai.googleblog.com/)
 23. [OpenAI Blog](https://blog.openai.com/)
+24. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
 24. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
 25. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
 26. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
