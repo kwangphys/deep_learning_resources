@@ -24,6 +24,7 @@ This session lists all machine learning related python packages.
 6. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
 7. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
 8. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+9. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
@@ -38,6 +39,8 @@ This session lists all machine learning related python packages.
 11. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
 12. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
 13. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
+14. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
+15. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -58,6 +61,8 @@ This session lists publicly available datasets or data tools
 4. [Reddit Datasets](https://www.reddit.com/r/datasets/)
 5. [Google Trends](https://trends.google.com/trends/explore)
 6. [VisualData](https://www.visualdata.io/): 281 Computer Vision Datasets
+7. [Datasets for Machine Learning](https://www.datasetlist.com/): 100+ Most famous machine learning datasets
+8. [Awesome Python Login Model](https://github.com/CriseLYJ/awesome-python-login-model): Examples to scrape data from websites with login requirements
 ### Economics & Finance
 1. [Quandl Financial Datasets](https://www.quandl.com/)
 2. [Yahoo Finance](https://finance.yahoo.com/)
@@ -82,14 +87,15 @@ This session lists publicly available datasets or data tools
 ## Books
 This session lists publicly downloadable machine learning books.
 1. [Probabilistic and Statistical Models for Outlier Detection](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319475776-c1.pdf?SGWID=0-0-45-1597574-p180317591) by Charu Aggarwal
-2. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-3. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
-4. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
-5. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
-6. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
-7. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
-8. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
-9. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+2. [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft and Ravindran Kannan
+3. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+4. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
+5. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
+6. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
+7. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
+8. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
+9. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
+10. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
