@@ -116,20 +116,23 @@ This session includes online resources such as websites, video courses, code sam
 16. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
 17. [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization): Provide a suite of tools for optimizing tf models
 18. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
-19. [Pytorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
-20. [Machine Learning Mastery](https://machinelearningmastery.com/)
-21. [Towards Data Science](https://towardsdatascience.com/)
-22. [Google AI Blog](https://ai.googleblog.com/)
-23. [OpenAI Blog](https://blog.openai.com/)
-24. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
-24. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
-25. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-26. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
-27. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
-28. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
-29. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
-30. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
-31. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+19. [PyTorch Hub](https://pytorch.org/hub): Pre-trained PyTorch models by facebook
+20. [PyTorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
+21. [Machine Learning Mastery](https://machinelearningmastery.com/)
+22. [Towards Data Science](https://towardsdatascience.com/)
+23. [Google AI Blog](https://ai.googleblog.com/)
+24. [OpenAI Blog](https://blog.openai.com/)
+25. [Tsinghua NLP](https://github.com/thunlp): NLP Lab at Tsinghua University
+26. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
+27. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
+28. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+29. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
+30. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
+31. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+32. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+33. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
+34. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
+35. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
