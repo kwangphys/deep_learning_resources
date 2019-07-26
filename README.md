@@ -98,6 +98,7 @@ This session lists publicly downloadable machine learning books.
 8. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
 9. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
 10. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+11. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
@@ -136,11 +137,14 @@ This session includes online resources such as websites, video courses, code sam
 34. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 35. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
 36. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
-37. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
-38. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+37. [27 Pre-trained NLP SOTA Models](https://github.com/huggingface/pytorch-transformers)
+38. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
+39. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
+40. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [Supercharging Jupyter Notebooks](https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18)
 - [Initializing Neural Networks](http://www.deeplearning.ai/ai-notes/initialization/)
 - [How to Handle Imbalanced Classification Problems in Machine Learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 - [How to Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
