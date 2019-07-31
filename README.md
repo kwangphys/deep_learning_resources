@@ -33,15 +33,17 @@ This session lists all machine learning related python packages.
 4. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
 5. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
 6. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
-7. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
-8. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
-9. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
-10. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
-11. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
-12. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
-13. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
-14. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
-15. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+7. [paddlepaddle](https://github.com/PaddlePaddle/Paddle): Baidu's generic deep learning framework
+8. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
+9. [ernie](https://github.com/PaddlePaddle/ERNIE): Baidu's NLP package based on PaddlePaddle. Best 中文 NLP.
+10. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
+11. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
+12. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
+13. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
+14. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
+15. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
+16. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
+17. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
