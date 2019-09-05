@@ -97,10 +97,11 @@ This session lists publicly downloadable machine learning books.
 5. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
 6. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
 7. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
-8. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
-9. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
-10. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
-11. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+8. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning, Prabhakar Raghavan and Hinrich Schütze
+9. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
+10. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
+11. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+12. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
