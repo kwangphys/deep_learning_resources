@@ -2,6 +2,7 @@
 - [Packages](#packages)
   - [Generic](#generic)
   - [Machine Learning](#machine-learning)
+  - [Quant Finance](#quant-finance)
   - [AutoML](#automl)
   - [Visualization](#visualization)
 - [Datasets](#datasets)
@@ -44,6 +45,9 @@ This session lists all machine learning related python packages.
 15. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
 16. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
 17. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+### Quant Finance
+1. [QuantLib](https://www.quantlib.org/): A free/open-source library for quantitative finance
+2. [tf-quant-finance](https://github.com/google/tf-quant-finance): Google's tensorflow based quant finance library
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
