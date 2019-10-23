@@ -150,7 +150,8 @@ This session includes online resources such as websites, video courses, code sam
 40. [中文 NLP Corpus](https://github.com/brightmart/nlp_chinese_corpus)
 41. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
 42. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
-43. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+43. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
+44. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
