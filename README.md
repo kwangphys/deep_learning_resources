@@ -45,6 +45,7 @@ This session lists all machine learning related python packages.
 15. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
 16. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
 17. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+18. [Plato](https://github.com/Tencent/plato): Tencent graph library
 ### Quant Finance
 1. [QuantLib](https://www.quantlib.org/): A free/open-source library for quantitative finance
 2. [tf-quant-finance](https://github.com/google/tf-quant-finance): Google's tensorflow based quant finance library
@@ -71,6 +72,7 @@ This session lists publicly available datasets or data tools
 7. [Datasets for Machine Learning](https://www.datasetlist.com/): 100+ Most famous machine learning datasets
 8. [TensorFlow Datasets](https://www.tensorflow.org/datasets): collection of datasets ready to use with TensorFlow
 9. [Awesome Python Login Model](https://github.com/CriseLYJ/awesome-python-login-model): Examples to scrape data from websites with login requirements
+10. [magi.com](https://magi.com/): A powerful knowledge graph search engine, supports Chinese.
 ### Economics & Finance
 1. [Quandl Financial Datasets](https://www.quandl.com/)
 2. [Yahoo Finance](https://finance.yahoo.com/)
@@ -152,7 +154,9 @@ This session includes online resources such as websites, video courses, code sam
 42. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
 43. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
 44. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
-45. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+45. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
+46. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
+47. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
@@ -170,6 +174,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Self Supervised Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 - [NLP Overview](https://nlpoverview.com/)
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - [8 Excellent Pretrained Models to get you Started with NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
@@ -179,5 +184,6 @@ This session lists interesting articles such as blogs or research papers.
 - [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 - [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
+- [知识图谱从哪里来：实体关系抽取的现状与未来](https://zhuanlan.zhihu.com/p/91762831): Article in Chinese
 - [A Gentle Introduction to Graph Neural Networks](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
 - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
