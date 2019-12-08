@@ -139,19 +139,20 @@ This session includes online resources such as websites, video courses, code sam
 29. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
 30. [Deep Learning Ocean](https://github.com/machinelearningmindset/deep-learning-ocean): Papers, books, datasets, courses, blogs, frameworks
 31. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
-32. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-33. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
-34. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
-35. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
-36. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
-37. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
-38. [27 Pre-trained NLP SOTA Models](https://github.com/huggingface/pytorch-transformers)
-39. [Everything about 中文 NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
-40. [中文 NLP Corpus](https://github.com/brightmart/nlp_chinese_corpus)
-41. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
-42. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
-43. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
-44. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+32. [80 papers with notes](https://github.com/yassouali/ML_paper_notes)
+33. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+34. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
+35. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
+36. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+37. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+38. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
+39. [27 Pre-trained NLP SOTA Models](https://github.com/huggingface/pytorch-transformers)
+40. [Everything about 中文 NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+41. [中文 NLP Corpus](https://github.com/brightmart/nlp_chinese_corpus)
+42. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
+43. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
+44. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
+45. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
@@ -168,6 +169,7 @@ This session lists interesting articles such as blogs or research papers.
 - [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more](https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [NLP Overview](https://nlpoverview.com/)
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - [8 Excellent Pretrained Models to get you Started with NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
@@ -178,3 +180,4 @@ This session lists interesting articles such as blogs or research papers.
 - [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
 - [A Gentle Introduction to Graph Neural Networks](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
+- [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
