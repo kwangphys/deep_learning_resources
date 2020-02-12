@@ -47,7 +47,8 @@ This session lists all machine learning related python packages.
 17. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
 18. [Plato](https://github.com/Tencent/plato): Tencent graph library
 19. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
-20. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
+20. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
+21. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
 ### Quant Finance
 1. [QuantLib](https://www.quantlib.org/): A free/open-source library for quantitative finance
 2. [tf-quant-finance](https://github.com/google/tf-quant-finance): Google's tensorflow based quant finance library
