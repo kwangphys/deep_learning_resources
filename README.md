@@ -183,6 +183,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Pruning Techniques for Neural Networks](https://heartbeat.fritz.ai/research-guide-pruning-techniques-for-neural-networks-d9b8440ab10d)
 - [TensorFlow Model Optimization Toolkit - Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a)
 - [4 Ways to Debug Your Deep Neural Network](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7)
+- [代码详解：用Pytorch训练快速神经网络的9个技巧](https://zhuanlan.zhihu.com/p/78555755)
 - [Troubleshooting Deep Neural Networks](https://www.zhihu.com/question/25097993/answer/585714651): in Chinese
 - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 - [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more](https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
