@@ -166,9 +166,10 @@ This session includes online resources such as websites, video courses, code sam
 44. [Deep Reinforcement Learning Algorithms](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 45. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
 46. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
-47. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
-48. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
-49. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+47. [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
+48. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
+49. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
+50. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
