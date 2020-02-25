@@ -27,6 +27,7 @@ This session lists all machine learning related python packages.
 8. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
 9. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
 10. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
+11. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
