@@ -30,26 +30,28 @@ This session lists all machine learning related python packages.
 11. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
-2. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
-3. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
-4. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
-5. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
-6. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
-7. [paddlepaddle](https://github.com/PaddlePaddle/Paddle): Baidu's generic deep learning framework
-8. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
-9. [ernie](https://github.com/PaddlePaddle/ERNIE): Baidu's NLP package based on PaddlePaddle. Best 中文 NLP.
-10. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
-11. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
-12. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
-13. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
-14. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
-15. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
-16. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
-17. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
-18. [Plato](https://github.com/Tencent/plato): Tencent graph library
-19. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
-20. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
-21. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
+2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
+3. [photon](https://github.com/photon-team/photon): high level machine learning pipelines
+4. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
+5. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
+6. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
+7. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
+8. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
+9. [paddlepaddle](https://github.com/PaddlePaddle/Paddle): Baidu's generic deep learning framework
+10. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
+11. [ernie](https://github.com/PaddlePaddle/ERNIE): Baidu's NLP package based on PaddlePaddle. Best 中文 NLP.
+12. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
+13. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
+14. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
+15. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
+16. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
+17. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
+18. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
+19. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+20. [Plato](https://github.com/Tencent/plato): Tencent graph library
+21. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
+22. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
+23. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
 ### Quant Finance
 1. [QuantLib](https://www.quantlib.org/): A free/open-source library for quantitative finance
 2. [tf-quant-finance](https://github.com/google/tf-quant-finance): Google's tensorflow based quant finance library
@@ -77,10 +79,11 @@ This session lists publicly available datasets or data tools
 4. [Reddit Datasets](https://www.reddit.com/r/datasets/)
 5. [Google Trends](https://trends.google.com/trends/explore)
 6. [VisualData](https://www.visualdata.io/): 281 Computer Vision Datasets
-7. [Datasets for Machine Learning](https://www.datasetlist.com/): 100+ Most famous machine learning datasets
-8. [TensorFlow Datasets](https://www.tensorflow.org/datasets): collection of datasets ready to use with TensorFlow
-9. [Awesome Python Login Model](https://github.com/CriseLYJ/awesome-python-login-model): Examples to scrape data from websites with login requirements
-10. [magi.com](https://magi.com/): A powerful knowledge graph search engine, supports Chinese.
+7. [Open Images](https://storage.googleapis.com/openimages/web/index.html): Google's image dataset, with > 9 million images
+8. [Datasets for Machine Learning](https://www.datasetlist.com/): 100+ Most famous machine learning datasets
+9. [TensorFlow Datasets](https://www.tensorflow.org/datasets): collection of datasets ready to use with TensorFlow
+10. [Awesome Python Login Model](https://github.com/CriseLYJ/awesome-python-login-model): Examples to scrape data from websites with login requirements
+11. [magi.com](https://magi.com/): A powerful knowledge graph search engine, supports Chinese.
 ### Economics & Finance
 1. [Quandl Financial Datasets](https://www.quandl.com/)
 2. [Yahoo Finance](https://finance.yahoo.com/)
@@ -106,18 +109,19 @@ This session lists publicly available datasets or data tools
 This session lists publicly downloadable machine learning books.
 1. [Probabilistic and Statistical Models for Outlier Detection](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319475776-c1.pdf?SGWID=0-0-45-1597574-p180317591) by Charu Aggarwal
 2. [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft and Ravindran Kannan
-3. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-4. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
-5. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
-6. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
-7. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
-8. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning, Prabhakar Raghavan and Hinrich Schütze
-9. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
-10. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
-11. [Network Science](http://networksciencebook.com) by Albert-László Barabási
-12. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
-13. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-14. [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
+3. [Pattern Recognition and Machine Learning](https://github.com/ctgk/PRML) by Christopher Bishop
+4. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+5. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
+6. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
+7. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
+8. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
+9. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning, Prabhakar Raghavan and Hinrich Schütze
+10. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
+11. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
+12. [Network Science](http://networksciencebook.com) by Albert-László Barabási
+13. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+14. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+15. [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
@@ -198,6 +202,7 @@ This session lists interesting articles such as blogs or research papers.
 - [8 Excellent Pretrained Models to get you Started with NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
 - [The Best and Most Current of Modern Natural Language Processing](https://mc.ai/the-best-and-most-current-of-modern-natural-language-processing/)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
+- [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
 - [Advances in Few Shot Learning: A Guided Tour](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)
 - [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 - [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
