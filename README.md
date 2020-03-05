@@ -19,15 +19,16 @@ This session lists all machine learning related python packages.
 ### Generic
 1. [numpy](www.numpy.org)
 2. [pandas](https://pandas.pydata.org/)
-3. [scipy](https://www.scipy.org/): for any generic scientific solutions
-4. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
-5. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
-6. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
-7. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
-8. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
-9. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
-10. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
-11. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
+3. [pandarallel](https://github.com/nalepae/pandarallel): make pandas run in parallel mode
+4. [scipy](https://www.scipy.org/): for any generic scientific solutions
+5. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
+6. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
+7. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
+8. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
+9. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+10. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
+11. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
+12. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
