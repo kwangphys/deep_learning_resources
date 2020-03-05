@@ -2,7 +2,6 @@
 - [Packages](#packages)
   - [Generic](#generic)
   - [Machine Learning](#machine-learning)
-  - [Quant Finance](#quant-finance)
   - [AutoML](#automl)
   - [Visualization](#visualization)
 - [Datasets](#datasets)
@@ -24,12 +23,11 @@ This session lists all machine learning related python packages.
 5. [scipy](https://www.scipy.org/): for any generic scientific solutions
 6. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
 7. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
-8. [ta-lib](https://github.com/mrjbq7/ta-lib): library for technical indicators
-9. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
-10. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
-11. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
-12. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
-13. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
+8. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
+9. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+10. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
+11. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
+12. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
@@ -54,9 +52,6 @@ This session lists all machine learning related python packages.
 21. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
 22. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
 23. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
-### Quant Finance
-1. [QuantLib](https://www.quantlib.org/): A free/open-source library for quantitative finance
-2. [tf-quant-finance](https://github.com/google/tf-quant-finance): Google's tensorflow based quant finance library
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -64,12 +59,13 @@ This session lists all machine learning related python packages.
 4. [BoTorch](https://github.com/pytorch/botorch): Bayesian optimisation based on PyTorch
 5. [AutoGluo](https://github.com/awslabs/autogluon): Amazon's AutoML toolkit
 ### Visualization
-1. [matplotlib](https://matplotlib.org/): All-purpose plotting package
-2. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
-3. [jupyter](jupyter.org/): Interactive python notebook. Excellent for machine learning research
-4. [jupytext](https://github.com/mwouts/jupytext): Manage Jupyter notebooks as plain text documents
-5. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
-6. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
+1. [tqdm](https://github.com/tqdm/tqdm): A python progressbar
+2. [matplotlib](https://matplotlib.org/): All-purpose plotting package
+3. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
+4. [jupyter](jupyter.org/): Interactive python notebook. Excellent for machine learning research
+5. [jupytext](https://github.com/mwouts/jupytext): Manage Jupyter notebooks as plain text documents
+6. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
+7. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
 ### Other
 1. [DiffTaichi](https://github.com/yuanming-hu/difftaichi): Differentiable Programming for Physical Simulation (ICLR 2020)
 ## Datasets
