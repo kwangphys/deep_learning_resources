@@ -21,14 +21,16 @@ This session lists all machine learning related python packages.
 3. [pandas](https://pandas.pydata.org/)
 4. [pandarallel](https://github.com/nalepae/pandarallel): make pandas run in parallel mode
 5. [blaze](https://github.com/blaze/blaze): NumPy and Pandas interface to Big Data
-6. [scipy](https://www.scipy.org/): for any generic scientific solutions
-7. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
-8. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
-9. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
-10. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
-11. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
-12. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
-13. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
+6. [datatable](https://datatable.readthedocs.io/en/latest/quick-start.html): Super fast parallel data table handling
+7. [vaex](https://github.com/vaexio/vaex): Yet another pandas with memory mapping technique
+8. [scipy](https://www.scipy.org/): for any generic scientific solutions
+9. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
+10. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
+11. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
+12. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+13. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
+14. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
+15. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
@@ -65,8 +67,9 @@ This session lists all machine learning related python packages.
 3. [seaborn](https://seaborn.pydata.org/): A matplotlib-based high level visualization interface
 4. [jupyter](jupyter.org/): Interactive python notebook. Excellent for machine learning research
 5. [jupytext](https://github.com/mwouts/jupytext): Manage Jupyter notebooks as plain text documents
-6. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
-7. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
+6. [nbdev](https://github.com/fastai/nbdev): Fast.Ai's Jupyter notebook which can export to script
+7. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
+8. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
 ### Other
 1. [DiffTaichi](https://github.com/yuanming-hu/difftaichi): Differentiable Programming for Physical Simulation (ICLR 2020)
 ## Datasets
