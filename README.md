@@ -35,20 +35,21 @@ This session lists all machine learning related python packages.
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
 3. [photon](https://github.com/photon-team/photon): high level machine learning pipelines
-4. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
-5. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
-6. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
-7. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
-8. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
-9. [paddlepaddle](https://github.com/PaddlePaddle/Paddle): Baidu's generic deep learning framework
-10. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
-11. [ernie](https://github.com/PaddlePaddle/ERNIE): Baidu's NLP package based on PaddlePaddle. Best 中文 NLP.
-12. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
-13. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
-14. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
-15. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
-16. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
-17. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
+4. [shap](https://github.com/slundberg/shap): analyze and visualize shapley values
+5. [lightgbm](https://lightgbm.readthedocs.io): super efficient implementation of gradient boosting trees
+6. [tensorflow](https://www.tensorflow.org/): Google's generic, graph-based deep learning package
+7. [keras](https://keras.io/): A high level deep learning interface, can use tensorflow as backend
+8. [pytorch](https://pytorch.org/): A pythonic-style, generic deep learning package. Very easy to use
+9. [fast.ai](https://github.com/fastai/fastai): A library to train fast and accurate neural nets. Based on pytorch
+10. [paddlepaddle](https://github.com/PaddlePaddle/Paddle): Baidu's generic deep learning framework
+11. [spacy](https://spacy.io/): Excellent industrial level NLP package. Easy to use and very efficient
+12. [ernie](https://github.com/PaddlePaddle/ERNIE): Baidu's NLP package based on PaddlePaddle. Best 中文 NLP.
+13. [gym](https://github.com/openai/gym): OpenAI's framework for reinforcement learning
+14. [baselines](https://github.com/openai/baselines): OpenAI's high quality implementations of famous reinforcement learning algorithms
+15. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
+16. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
+17. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
+18. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
 18. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
 19. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
 20. [Plato](https://github.com/Tencent/plato): Tencent graph library
