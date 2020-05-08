@@ -175,9 +175,10 @@ This session includes online resources such as websites, video courses, code sam
 45. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
 46. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
 47. [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
-48. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
-49. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
-50. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+48. [Few-Shot Learning Papers](https://github.com/tata1661/FewShotPapers)
+49. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
+50. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
+51. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
@@ -199,6 +200,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Tips for Training Recurrent Neural Networks](https://danijar.com/tips-for-training-recurrent-neural-networks/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [注意力机制综述](https://zhuanlan.zhihu.com/p/106662375)
 - [Self Supervised Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 - [NLP Overview](https://nlpoverview.com/)
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
@@ -207,6 +209,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
 - [Advances in Few Shot Learning: A Guided Tour](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)
+- [贝叶斯与元学习](https://zhuanlan.zhihu.com/c_1186629504699731968)
 - [Logging in Tensorboard with PyTorch](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 - [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
