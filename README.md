@@ -20,17 +20,18 @@ This session lists all machine learning related python packages.
 2. [numba](http://numba.pydata.org/): A high performance python compiler
 3. [pandas](https://pandas.pydata.org/)
 4. [pandarallel](https://github.com/nalepae/pandarallel): make pandas run in parallel mode
-5. [blaze](https://github.com/blaze/blaze): NumPy and Pandas interface to Big Data
-6. [datatable](https://datatable.readthedocs.io/en/latest/quick-start.html): Super fast parallel data table handling
-7. [vaex](https://github.com/vaexio/vaex): Yet another pandas with memory mapping technique
-8. [scipy](https://www.scipy.org/): for any generic scientific solutions
-9. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
-10. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
-11. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
-12. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
-13. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
-14. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
-15. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
+5. [numexpr](https://github.com/pydata/numexpr): fast evaluation of numpy/pandas expressions
+6. [blaze](https://github.com/blaze/blaze): NumPy and Pandas interface to Big Data
+7. [datatable](https://datatable.readthedocs.io/en/latest/quick-start.html): Super fast parallel data table handling
+8. [vaex](https://github.com/vaexio/vaex): Yet another pandas with memory mapping technique
+9. [scipy](https://www.scipy.org/): for any generic scientific solutions
+10. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
+11. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
+12. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
+13. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+14. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
+15. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
+16. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
@@ -206,6 +207,7 @@ This session lists interesting articles such as blogs or research papers.
 - [Introduction to Natural Language Processing](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - [8 Excellent Pretrained Models to get you Started with NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
 - [The Best and Most Current of Modern Natural Language Processing](https://mc.ai/the-best-and-most-current-of-modern-natural-language-processing/)
+- [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
 - [Advances in Few Shot Learning: A Guided Tour](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)
