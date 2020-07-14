@@ -1,6 +1,7 @@
 ## Contents
 - [Packages](#packages)
   - [Generic](#generic)
+  - [Time Series](#time-series)
   - [Machine Learning](#machine-learning)
   - [AutoML](#automl)
   - [Visualization](#visualization)
@@ -26,12 +27,19 @@ This session lists all machine learning related python packages.
 8. [vaex](https://github.com/vaexio/vaex): Yet another pandas with memory mapping technique, super fast on super big datasets
 9. [scipy](https://www.scipy.org/): for any generic scientific solutions
 10. [statsmodels](https://www.statsmodels.org): for any statistics related topics such as distributions, statistical tests, time series analysis
-11. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
 12. [networkx](https://networkx.github.io/): a comprehensive package for all graph algorithms
-13. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
 14. [TensorNetwork](https://github.com/google/TensorNetwork): a very efficient library for tensor calculations
 15. [Euler](https://github.com/alibaba/euler): large-scale graph algorithms and models by Alibaba
 16. [jax](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): Google's NumPy on the CPU, GPU and TPU
+### Time Series
+1. [pyflux](https://pyflux.readthedocs.io): an advanced time-series analysis library
+2. [pyts](https://github.com/johannfaouzi/pyts): time-series analysis, decomposition and classification
+3. [tslearn](https://github.com/tslearn-team/tslearn): machine learning toolkit for time-series analysis
+4. [seglearn](https://github.com/dmbee/seglearn): sliding operations/transformations for time-series/sequence data
+5. [stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html): Find motifs and anomalies in time-series data
+6. [sktime](https://github.com/alan-turing-institute/sktime): toolbox for machine learning with time-series
+7. [tsfresh](https://github.com/blue-yonder/tsfresh): Time series transformation, feature extraction and selection
+8. [cesium](https://github.com/cesium-ml/cesium): Time series feature extraction
 ### Machine Learning
 1. [sklearn](https://scikit-learn.org): a comprehensive and all-around machine learning package
 2. [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html): imbalanced learning API
@@ -51,13 +59,13 @@ This session lists all machine learning related python packages.
 16. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
 17. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
 18. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
-18. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
-19. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
-20. [Plato](https://github.com/Tencent/plato): Tencent graph library
-21. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
-22. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
-23. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
-24. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
+19. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
+20. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+21. [Plato](https://github.com/Tencent/plato): Tencent graph library
+22. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
+23. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
+24. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
+25. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -77,7 +85,8 @@ This session lists all machine learning related python packages.
 10. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
 11. [sweetviz](https://github.com/fbdesignpro/sweetviz): Automated dataset analysis and visualization
 ### Other
-1. [DiffTaichi](https://github.com/yuanming-hu/difftaichi): Differentiable Programming for Physical Simulation (ICLR 2020)
+1. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
+2. [DiffTaichi](https://github.com/yuanming-hu/difftaichi): Differentiable Programming for Physical Simulation (ICLR 2020)
 ## Datasets
 This session lists publicly available datasets or data tools
 ### General
