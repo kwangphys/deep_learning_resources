@@ -59,16 +59,18 @@ This session lists all machine learning related python packages.
 16. [dopamine](https://github.com/google/dopamine): Google's framework for reinforcement learning
 17. [trfl](https://github.com/deepmind/trfl): deepmind's framework for reinforcement learning
 18. [tensorforce](https://github.com/tensorforce/tensorforce): TensorFlow based reinforcement learning framework, bundled with models
-19. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
-20. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
-21. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
-22. [Plato](https://github.com/Tencent/plato): Tencent graph library
-23. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
-24. [dgl-ke](https://github.com/awslabs/dgl-ke: Fast and scalable knowledge graph algorithms by Amazon AWS
-25. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
-26. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
-27. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
-28. [pycaret](https://github.com/pycaret/): low-code machine learning wrapper for many packages
+19. [tianshou](https://github.com/thu-ml/tianshou): Tsinghua's super fast framework for reinforcement learning based on Pytorch
+20. [MorphNet](https://github.com/google-research/morph-net): Google Research method to reduce neural network size while improving performance
+21. [dalib](https://github.com/thuml/Transfer-Learning-Library): Tsinghua's transfer learning library based on pure Pytorch
+22. [PyG](https://github.com/rusty1s/pytorch_geometric): Very efficient pytorch based GNN library
+23. [DGL](https://www.dgl.ai/): Easy deep learning on graphs
+24. [Plato](https://github.com/Tencent/plato): Tencent graph library
+25. [CogDL](https://github.com/THUDM/cogdl): An extensive research toolkit for deep learning on graphs by TsingHua
+26. [dgl-ke](https://github.com/awslabs/dgl-ke: Fast and scalable knowledge graph algorithms by Amazon AWS
+27. [pyro](http://docs.pyro.ai/en/stable/): Deep Universal Probabilistic Programming
+28. [interpretML](https://github.com/interpretml/interpret): Interpretable Machine Learning by Microsoft
+29. [apex](https://github.com/NVIDIA/apex): A PyTorch extension for mixed precision and distributed training
+30. [pycaret](https://github.com/pycaret/): low-code machine learning wrapper for many packages
 ### AutoML
 1. [bohb](https://github.com/automl/HpBandSter): Hyper-parameter optimization with Bayesian method and bandit-based method combined
 2. [auto-sklearn](https://github.com/automl/auto-sklearn): Automatically builds ensemble of sklearn models and optimizes hyper-parameters
@@ -83,10 +85,11 @@ This session lists all machine learning related python packages.
 5. [jupytext](https://github.com/mwouts/jupytext): Manage Jupyter notebooks as plain text documents
 6. [nbdev](https://github.com/fastai/nbdev): Fast.Ai's Jupyter notebook which can export to script
 7. [jupyterlab/debugger](https://github.com/jupyterlab/debugger): Visual debugger for JupyterLab
-8. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
-9. [VisualDL](https://github.com/PaddlePaddle/VisualDL): Visualization of neural network data, structure and training. By Baidu PaddlePaddle, support Pytorch
-10. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
-11. [sweetviz](https://github.com/fbdesignpro/sweetviz): Automated dataset analysis and visualization
+8. [handcalcs](https://github.com/connorferster/handcalcs): Render native python expressions into Latex formula
+9. [hiddenlayer](https://github.com/waleedka/hiddenlayer): A light-weight tool to visualize neural net graphs and training processes. It supports tensorflow, keras and pytorch
+10. [VisualDL](https://github.com/PaddlePaddle/VisualDL): Visualization of neural network data, structure and training. By Baidu PaddlePaddle, support Pytorch
+11. [manifold](https://github.com/uber/manifold): A model-agnostic debugging and visulisation tool for deep learning
+12. [sweetviz](https://github.com/fbdesignpro/sweetviz): Automated dataset analysis and visualization
 ### Other
 1. [PySnooper](https://github.com/cool-RR/PySnooper): a generic but powerful python debug tool
 2. [DiffTaichi](https://github.com/yuanming-hu/difftaichi): Differentiable Programming for Physical Simulation (ICLR 2020)
@@ -131,20 +134,23 @@ This session lists publicly downloadable machine learning books.
 1. [Probabilistic and Statistical Models for Outlier Detection](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319475776-c1.pdf?SGWID=0-0-45-1597574-p180317591) by Charu Aggarwal
 2. [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft and Ravindran Kannan
 3. [Pattern Recognition and Machine Learning](https://github.com/ctgk/PRML) by Christopher Bishop
-4. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-5. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
-6. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
-7. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
-8. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
-9. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning, Prabhakar Raghavan and Hinrich Schütze
-10. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
-11. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
-12. [Network Science](http://networksciencebook.com) by Albert-László Barabási
-13. [知识图谱与深度学习](https://re.jd.com/cps/item/12661347.html?cu=true&utm_source=www.read678.com&utm_medium=tuiguang&utm_campaign=t_322302035_&utm_term=f83033b51c2b46ed84ac7c4a79ce2e5c) by 孙茂松 and 刘知远
-14. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
-15. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-16. [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
-17. [Evolutionary Learning: Advances in Theories and Algorithms](https://link.springer.com/book/10.1007/978-981-13-5956-9) by Zhi-Hua Zhou， Yang Yu and Chao Qian
+4. [集成学习：基础与算法](https://re.jd.com/cps/item/12912974.html?cu=true&utm_source=read678.com&utm_medium=tuiguang&utm_campaign=t_322302035_&utm_term=b8e378159373482eb04e19cd57beff11) by 周志华
+5. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+6. [Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io) by Xipeng Qiu 邱锡鹏
+7. [Machine Learning Yearning](https://www.mlyearning.org/) by Andrew Ng
+8. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
+9. [Notes on Deep Learning for NLP](https://arxiv.org/abs/1808.09772) by Antoine J.-P. Tixier
+10. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Christopher Manning, Prabhakar Raghavan and Hinrich Schütze
+11. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard Sutton and Andrew Barto
+12. [Deep Reinforcement Learning](https://arxiv.org/abs/1810.06339) by Yuxi Li
+13. [Network Science](http://networksciencebook.com) by Albert-László Barabási
+14. [知识图谱与深度学习](https://re.jd.com/cps/item/12661347.html?cu=true&utm_source=www.read678.com&utm_medium=tuiguang&utm_campaign=t_322302035_&utm_term=f83033b51c2b46ed84ac7c4a79ce2e5c) by 孙茂松 and 刘知远
+15. [人工智能：知识图谱前沿技术](https://item.jd.com/12911290.html) by 朱小燕
+16. [迁移学习](https://item.jd.com/12930984.html?extension_id=eyJhZCI6IiIsImNoIjoiIiwic2hvcCI6IiIsInNrdSI6IiIsInRzIjoiIiwidW5pcWlkIjoie1wiY2xpY2tfaWRcIjpcIjUzYjEzYmIyLWMzOWItNGE0MC05NDUzLTYyZmVlYTU0OGNhOVwiLFwicG9zX2lkXCI6XCIyNjE3XCIsXCJzaWRcIjpcIjA5NjM2NDA0LWIzNWItNDljMS04ZDlhLWEzZTZmOWQyN2E0YVwiLFwic2t1X2lkXCI6XCIxMjkzMDk4NFwifSJ9&jd_pop=53b13bb2-c39b-4a40-9453-62feea548ca9) by 杨强 张宇 戴文渊 潘嘉林
+17. [AutoML: Methods, Systems, Challenges](https://www.automl.org/book/) edited by Frank Hutter, Lars Kotthoff and Joaquin Vanschoren
+18. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+19. [Limitations of Interpretable Machine Learning](https://compstat-lmu.github.io/iml_methods_limitations/)
+20. [Evolutionary Learning: Advances in Theories and Algorithms](https://link.springer.com/book/10.1007/978-981-13-5956-9) by Zhi-Hua Zhou， Yang Yu and Chao Qian
 ## Resources
 This session includes online resources such as websites, video courses, code samples etc.
 1. [Advanced Numpy](http://www.scipy-lectures.org/advanced/advanced_numpy/)
@@ -159,49 +165,50 @@ This session includes online resources such as websites, video courses, code sam
 10. [Stanford CS224n NLP Notes](https://zhuanlan.zhihu.com/p/31977759): Notes are in Chinese
 11. [Stanford CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/schedule.html)
 12. [Stanford CS224w Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
-13. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
-14. [Fast.ai Code-First Introduction to NLP](https://www.fast.ai/2019/07/08/fastai-nlp/): Comprehensive NLP course by fast.ai
-15. [Fast.ai Self Supervised Learning](https://www.fast.ai/2020/01/13/self_supervised/)
-16. [Andrew Ng Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): Notes are in Chinese
-17. [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-18. [李宏毅 deep learning channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
-19. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
-20. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-21. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
-22. [TensorFlow Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
-23. [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization): Provide a suite of tools for optimizing tf models
-24. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
-25. [PyTorch Hub](https://pytorch.org/hub): Pre-trained PyTorch models by facebook
-26. [PyTorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
-27. [Machine Learning Mastery](https://machinelearningmastery.com/)
-28. [Towards Data Science](https://towardsdatascience.com/)
-29. [Google AI Blog](https://ai.googleblog.com/)
-30. [OpenAI Blog](https://blog.openai.com/)
-31. [Tsinghua NLP](https://github.com/thunlp): NLP Lab at Tsinghua University
-32. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
-33. [Deep Learning Ocean](https://github.com/machinelearningmindset/deep-learning-ocean): Papers, books, datasets, courses, blogs, frameworks
-34. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
-35. [80 papers with notes](https://github.com/yassouali/ML_paper_notes)
-36. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
-37. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
-38. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
-39. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
-40. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
-41. [Yet Another EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
-42. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
-43. [27 Pre-trained NLP SOTA Models](https://github.com/huggingface/pytorch-transformers)
-44. [Everything about 中文 NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
-45. [中文 NLP Corpus](https://github.com/brightmart/nlp_chinese_corpus)
-46. [中文分词SOTA](https://github.com/SVAIGBA/WMSeg)
-47. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
-48. [Deep Reinforcement Learning Algorithms](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
-49. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
-50. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
-51. [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
-52. [Few-Shot Learning Papers](https://github.com/tata1661/FewShotPapers)
-53. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
-54. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
-55. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
+13. [Stanford CS520 Knowledge Graphs](https://web.stanford.edu/class/cs520/)
+14. [Fast.ai Online Course](https://course.fast.ai/): Extremely useful and practical
+15. [Fast.ai Code-First Introduction to NLP](https://www.fast.ai/2019/07/08/fastai-nlp/): Comprehensive NLP course by fast.ai
+16. [Fast.ai Self Supervised Learning](https://www.fast.ai/2020/01/13/self_supervised/)
+17. [Andrew Ng Course Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): Notes are in Chinese
+18. [Reinforcement Learning Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+19. [李宏毅 deep learning channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+20. [TensorFlow Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)
+21. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+22. [TensorFlow Hub](https://www.tensorflow.org/hub/): Reusable machine learning models
+23. [TensorFlow Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+24. [TensorFlow Model Optimization](https://www.tensorflow.org/model_optimization): Provide a suite of tools for optimizing tf models
+25. [Awesome Pytorch Resources](https://github.com/bharathgs/Awesome-pytorch-list): Everything you need with PyTorch is here
+26. [PyTorch Hub](https://pytorch.org/hub): Pre-trained PyTorch models by facebook
+27. [PyTorch Cookbook](https://zhuanlan.zhihu.com/p/59205847?): Useful PyTorch code snippets. Article in Chinese
+28. [Machine Learning Mastery](https://machinelearningmastery.com/)
+29. [Towards Data Science](https://towardsdatascience.com/)
+30. [Google AI Blog](https://ai.googleblog.com/)
+31. [OpenAI Blog](https://blog.openai.com/)
+32. [Tsinghua NLP](https://github.com/thunlp): NLP Lab at Tsinghua University
+33. [Papers with Code](https://paperswithcode.com/): Extensive latest papers with implementations
+34. [Deep Learning Ocean](https://github.com/machinelearningmindset/deep-learning-ocean): Papers, books, datasets, courses, blogs, frameworks
+35. [stateoftheart.ai](stateoftheart.ai): Summary of state-of-the-art AI models
+36. [80 papers with notes](https://github.com/yassouali/ML_paper_notes)
+37. [Andrej Karpathy AI Blog](http://karpathy.github.io/)
+38. [Sebastian Ruder Blog](http://ruder.io/): Deepmind Research Scientist blog about Deep Learning and NLP
+39. [Andrew Ng DeepLearning.ai Blog](https://www.deeplearning.ai/blog/category/resources/)
+40. [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
+41. [Segmentation Models](https://github.com/qubvel/segmentation_models): Both pytorch and keras implementations available
+42. [Yet Another EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+43. [NAACL Tutorial on NLP Transfer Learning](https://github.com/huggingface/naacl_transfer_learning_tutorial)
+44. [27 Pre-trained NLP SOTA Models](https://github.com/huggingface/pytorch-transformers)
+45. [Everything about 中文 NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+46. [中文 NLP Corpus](https://github.com/brightmart/nlp_chinese_corpus)
+47. [中文分词SOTA](https://github.com/SVAIGBA/WMSeg)
+48. [Deep Reinforcement Learning Hands On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On): Implementations of many deep RL algorithms with real-world problems.
+49. [Deep Reinforcement Learning Algorithms](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+50. [Graph Neural Network Papers](https://github.com/benedekrozemberczki/awesome-graph-classification)
+51. [Must Read GNN Papers](https://github.com/thunlp/GNNPapers)
+52. [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
+53. [Few-Shot Learning Papers](https://github.com/tata1661/FewShotPapers)
+54. [CleanLab](https://github.com/cgnorthcutt/cleanlab): Learning with Noisy Labels
+55. [Understanding NN](https://github.com/1202kbs/Understanding-NN?files=1): Interpretable neural networks
+56. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): Very useful summary of data science IT tool packages
 ## Articles
 This session lists interesting articles such as blogs or research papers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
@@ -214,6 +221,7 @@ This session lists interesting articles such as blogs or research papers.
 - [How to Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/)
 - [Machine Learning Performance Improvement Cheat Sheet](https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/)
 - [Deep Learning Parameter Tuning Tricks (Chinese)](https://www.zhihu.com/question/41631631)
+- [深度学习debug常见问题]()https://zhuanlan.zhihu.com/p/158739701)
 - [Pruning Techniques for Neural Networks](https://heartbeat.fritz.ai/research-guide-pruning-techniques-for-neural-networks-d9b8440ab10d)
 - [A Developer-Friendly Guide To Mixed Precision Training With PyTorch](https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
 - [juliuszh机器学习札记](https://zhuanlan.zhihu.com/juliuszh)
@@ -244,6 +252,7 @@ This session lists interesting articles such as blogs or research papers.
 - [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [Automating Data Augmentation: Practice, Theory and New Direction](http://ai.stanford.edu/blog/data-augmentation/)
 - [12个NLP预训练模型的学习笔记](https://zhuanlan.zhihu.com/p/111738085)
+- [莫愁前路，一文读懂中文语料预处理](https://zhuanlan.zhihu.com/p/166199114)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
 - [GAN，没错，生成对抗网络也可以被用于时间序列预测](https://zhuanlan.zhihu.com/p/121771459)
@@ -253,8 +262,10 @@ This session lists interesting articles such as blogs or research papers.
 - [Analyze Hinton's Capsule Plan](https://zhuanlan.zhihu.com/p/29435406): Article in Chinese
 - [Introduction to Knowledge Graph](https://zhuanlan.zhihu.com/p/53753234): Article in Chinese
 - [知识图谱从哪里来：实体关系抽取的现状与未来](https://zhuanlan.zhihu.com/p/91762831): Article in Chinese
+- [少样本关系抽取技术](https://zhuanlan.zhihu.com/p/159438322)
 - [漫谈图神经网络](https://zhuanlan.zhihu.com/p/108294485)
 - [A Gentle Introduction to Graph Neural Networks](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
 - [Expressive power of graph neural networks and the Weisfeiler-Lehman test](https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49)
+- [Towards Explainable Graph Neural Networks](https://towardsdatascience.com/towards-explainable-graph-neural-networks-45f5e3912dd0)
 - [带噪学习和协作学习，不完美场景下的神经网络优化策略](https://zhuanlan.zhihu.com/p/141085295)
 - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
