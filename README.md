@@ -252,6 +252,8 @@ This session lists interesting articles such as blogs or research papers.
 - [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [Automating Data Augmentation: Practice, Theory and New Direction](http://ai.stanford.edu/blog/data-augmentation/)
 - [12个NLP预训练模型的学习笔记](https://zhuanlan.zhihu.com/p/111738085)
+- [超详细中文预训练模型ERNIE使用指南](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/97703165)
+- [NLP民工的乐园: 几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
 - [莫愁前路，一文读懂中文语料预处理](https://zhuanlan.zhihu.com/p/166199114)
 - [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
